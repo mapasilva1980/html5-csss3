@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'hot';
+  src: url(love_story_2/love\ story\ ttf.ttf) format('truetype');
+}
+
+h1{
+  font-family: 'hot', Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  font-weight: normal;
+  color: rgb(224, 169, 190);
+}
